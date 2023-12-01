@@ -1,2 +1,7 @@
 # Big-Ideas-Final-Project
-Lucy's reflection: I'm pretty surprised that in my dataset (food gardens), the areas with the most food gardens ended up being areas near the actual city, I would've figured that there would be more community-based gardens in more rural areas. 
+
+Team Name: The Walking Dead
+<br>
+Team Members: Abby Feather amf295@pitt.edu, Lucy Wang lyw14@pitt.edu
+<br>
+Canvas Group 12
