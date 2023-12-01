@@ -1,4 +1,4 @@
-# Big-Ideas-Final-Project Read Me
+# Read Me
 
 Group Name: The Walking Dead
 
