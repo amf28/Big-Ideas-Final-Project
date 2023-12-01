@@ -1,4 +1,5 @@
-# Big-Ideas-Final-Project Read Me
+# Read Me
+Overview: This project analyzes 3 data sets (food gardens, stores, and population density) to determine the best neighborhood to survive a zombie apocalypse in.
 
 Group Name: The Walking Dead
 
@@ -10,4 +11,4 @@ Food gardens: https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens/resour
 
 Stores: https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
 
-Density: https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts & https://data.wprdc.org/dataset/pgh
+Population Density: https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts & https://data.wprdc.org/dataset/pgh
