@@ -3,7 +3,7 @@ Overview: This project analyzes 3 data sets (food gardens, stores, and populatio
 
 Group Name: The Walking Dead
 
-Team members: Abby Feather amf295@pitt.edu, Lucy Wang lyw14@pitt.edu, Maria Dantas Vilela mad642@pitt.edu
+Team members: Abby Feather amf295@pitt.edu (Stores), Lucy Wang lyw14@pitt.edu (Foof Gardens), Maria Dantas Vilela mad642@pitt.edu (Population Density)
 
 Datasets used: 
 
